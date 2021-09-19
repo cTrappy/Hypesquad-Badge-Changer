@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://discord.gg/rJV7Geh5xv)
 
 A Hypesquad Badge Changer built in Python, for Discord!
 You can select from the 3 badges!
@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Discord - HoodTrips#0001
 
-Discord Server - https://discord.gg/Fuytdc8Wxk
+Discord Server - https://discord.gg/rJV7Geh5xv
 
 Project Link: https://github.com/cTrappy/multi-tool
 
